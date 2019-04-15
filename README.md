@@ -4,3 +4,8 @@ Game of Life built with Rust, compiled to WebAssembly, following [rustwasm tutor
 
 Generated from [wasm-pack-template](https://github.com/rustwasm/wasm-pack-template).
 
+## Build
+
+```
+wasm-pack build
+```
